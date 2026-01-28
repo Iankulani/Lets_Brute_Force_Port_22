@@ -22,5 +22,5 @@ cd Lets_Brute_Force_Port_22
 
 ## How to run
 ```bash
-python3 Lets_Brute_Force_Port_22.py
+node Lets_Brute_Force_Port_22.js
 ```
